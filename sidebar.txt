@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[job:home|Door43 (job)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-job|d43-job repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-job/archive/master.zip|d43-job.zip]]
+
+**Recent Changes**
+{{changes>ns = job}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/job|Ethnologue data]]
+
